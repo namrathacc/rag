@@ -1,0 +1,8 @@
+flask
+pandas
+langchain
+chromadb
+sentence-transformers
+groq
+mysql-connector-python
+gunicorn
